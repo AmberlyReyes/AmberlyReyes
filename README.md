@@ -12,8 +12,5 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmberlyReyes&layout=compact&theme=tokyonight&title_color=C71585&border_color=C71585)
-
-<br/>
 
 </div>
