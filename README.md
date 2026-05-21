@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AmberlyReyes/AmberlyReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+# Welcome to my profile ♥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=C71585&center=true&vCenter=true&width=600&lines=still+working+on+it...;still+working+on+me+%3A%29)](https://git.io/typing-svg)
+
+<br/>
+
+</div>
